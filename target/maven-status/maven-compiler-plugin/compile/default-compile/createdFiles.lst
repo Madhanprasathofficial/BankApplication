@@ -1,5 +1,4 @@
-META-INF\MANIFEST.MF
-META-INF\maven\deposit-calculator\org.com.depositcalculator\pom.xml
-META-INF\maven\deposit-calculator\org.com.depositcalculator\pom.properties
 org\com\deposit\depositcalculator\DepositCalculator.class
+org\com\deposit\depositcalculator\service\TermDepositService.class
+org\com\deposit\depositcalculator\controller\TermDepositController.class
 org\com\deposit\depositcalculator\TermDepositRequest.class
